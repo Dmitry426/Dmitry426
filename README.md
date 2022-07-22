@@ -1,11 +1,17 @@
-### Hi everyone , My  name is Dmitry and I'm fullstack developer with 1,5 years of commercial  experience . 
+### Hi everyone , My  name is Dmitry and I'm fullstack developer with 1,5 years of experience . 
 
 ## Technologies
+- Python 3.5x (Flask , Django , FastAPi ) 
+- SQL  databases (Postgrees , Mysql ) 
+- Non SQL ( MongoDb , ElasticSearch ) 
+- Queues ( Kafka , RabbitMQ) 
+- In-Memory databases ( Redis , Memcached ) 
+- Logging  and  Tracing   ( ELK , Jaeger ,  Sentry ) 
 
 
 
 
-- 📫 How to reach me: ...
+## 📫 How to reach me: ...
 
 <!--
 **Dmitry426/Dmitry426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
