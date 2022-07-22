@@ -7,7 +7,9 @@
 - Queues ( Kafka , RabbitMQ) 
 - In-Memory databases ( Redis , Memcached ) 
 - Logging  and  Tracing   ( ELK , Jaeger ,  Sentry ) 
-
+- Containerization ( Docker , Docker-Compose ) 
+- CI/CD ( github actions ) 
+- Proxy Servers ( Nginx ,Gunicorn ) 
 
 
 
