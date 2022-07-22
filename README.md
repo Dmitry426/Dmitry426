@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi everyone , My  name is Dmitry and I'm fullstack developer with 1,5 years of experience . 
+
+##Technologies
+- Python 3.5+ 
+
+
+
+
+- 📫 How to reach me: ...
 
 <!--
 **Dmitry426/Dmitry426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
