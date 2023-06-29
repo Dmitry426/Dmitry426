@@ -1,7 +1,7 @@
-### Hi everyone , My  name is Dmitry and I'm fullstack developer with 2 years of experience . 
+### Hi everyone , My  name is Dmitry and I'm fullstack developer with 2.5  years of experience . 
 
 ## Technologies
-- Python 3.5x (Flask , Django , FastAPi ) 
+- Python 3.5x to 3.10x (Flask , Django , FastAPi ) 
 - SQL  databases (Postgrees , Mysql ) 
 - Non SQL ( MongoDb , ElasticSearch ) 
 - Queues ( Kafka , RabbitMQ) 
