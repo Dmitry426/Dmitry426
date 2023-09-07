@@ -1,15 +1,15 @@
 ### Hi everyone , My  name is Dmitry and I'm fullstack developer with 3.5  years of experience . 
 
 ## Technologies
-- Python 3.5x to 3.10x (Flask , Django , FastAPi ) 
+- Python 3.5x to 3.11x (Flask , Django , FastAPi ) 
 - SQL  databases (Postgrees , Mysql, Click ) 
 - Non SQL ( MongoDb , ElasticSearch ) 
 - Queues ( Kafka , RabbitMQ) 
 - In-Memory databases ( Redis , Memcached ) 
 - Logging  and  Tracing   ( ELK , Jaeger ,  Sentry ) 
 - Containerization ( Docker , Docker-Compose ) 
-- CI/CD ( github actions ) 
-- Proxy Servers ( Nginx ,Gunicorn ) 
+- CI/CD ( github actions, gitlab , jenkins , ansible ) 
+- Proxy Servers ( Nginx , Apache2 ) 
 
 
 
