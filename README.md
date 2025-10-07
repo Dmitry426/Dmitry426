@@ -1,7 +1,8 @@
-### Hi everyone , My  name is Dmitry and I'm fullstack developer with 5  years of experience . 
+### Hi everyone , My  name is Dmitry  . I'm Deep Learning Engineer and  HSE (Higher School of Economics) MLDS graduate .
 
 ## Technologies
-- Python 3.5x to 3.11x (Flask , Django , FastAPi ) 
+- Deep Learning  ( PyTorch, TensorFlow, Keras ) 
+- Machine Learning & Data Tools  ( Scikit-learn, Pandas, NumPy, Airflow, MLflow )
 - SQL  databases (Postgrees , Mysql, Click ) 
 - Non SQL ( MongoDb , ElasticSearch ) 
 - Queues ( Kafka , RabbitMQ) 
